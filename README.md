@@ -5,3 +5,5 @@ In this project, we implement two CNN models for emotion recognition on the FER2
 You can find the FER2013 dataset on Kaggle [here](https://www.kaggle.com/datasets/msambare/fer2013).
 
 For both CNN models, we apply data augmentation and resize the images to improve performance. After generating the models, we test them on real-life data, including images sourced from Google and a video showcasing various emotions.
+
+![Emotion Recognition](https://production-media.paperswithcode.com/datasets/FER2013-0000001434-01251bb8_415HDzL.jpg)
