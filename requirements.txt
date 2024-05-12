@@ -1,1 +1,10 @@
-
+matplotlib
+numpy
+pandas
+tensorflow
+tensorflow-datasets
+opencv-python
+keras
+scikit-learn
+scikit-image
+pytube
